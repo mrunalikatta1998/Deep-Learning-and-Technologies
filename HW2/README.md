@@ -1,6 +1,6 @@
 # 🧠 Deep Learning Project: 3D Medical Imaging, Skin Lesion Classification & ResNet on CIFAR-10
 
-This project applies deep learning techniques across diverse domains—3D medical imaging, skin disease classification, and general object recognition—using custom CNNs, pretrained models, Grad-CAM for explainability, and model compression through quantization. The project is organized into three major parts.
+Here I have applied a few deep learning techniques across diverse domains—3D medical imaging, skin disease classification, and general object recognition—using custom CNNs, pretrained models, Grad-CAM for explainability, and model compression through quantization. The project is organized into three major parts.
 
 ---
 
